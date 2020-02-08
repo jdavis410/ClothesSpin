@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b4a0b2b-a340-41c7-b813-e1869778c60b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/App/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/App/pages/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/App/pages/List.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
+    <list default="true" id="3b4a0b2b-a340-41c7-b813-e1869778c60b" name="Default Changelist" comment="added client src">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App/pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App/pages/List.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App/pages/List.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,24 +23,6 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -53,22 +32,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/App/pages/Home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/client/src/index.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/App/pages/List.js">
+        <entry file="file://$PROJECT_DIR$/client/src/App.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1248">
-              <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+            <state>
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,28 +60,54 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/client/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            <state relative-caret-position="456">
+              <caret line="19" column="76" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/client/src/App/pages/Home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="456">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/App/pages/List.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -121,22 +121,29 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getList</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/client/package.json" />
         <option value="$PROJECT_DIR$/client/src/index.js" />
         <option value="$PROJECT_DIR$/client/src/App.js" />
         <option value="$PROJECT_DIR$/client/src/App/App.js" />
-        <option value="$PROJECT_DIR$/client/src/App/pages/Home.js" />
-        <option value="$PROJECT_DIR$/client/src/App/pages/List.js" />
         <option value="$PROJECT_DIR$/client/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/client/public/index.html" />
+        <option value="$PROJECT_DIR$/client/src/App/pages/Home.js" />
+        <option value="$PROJECT_DIR$/firebase.js" />
+        <option value="$PROJECT_DIR$/client/src/App/pages/List.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/index.js" />
       </list>
     </option>
   </component>
@@ -157,6 +164,32 @@
             <path>
               <item name="ClotheSpin" type="b2602c69:ProjectViewProjectNode" />
               <item name="ClotheSpin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClotheSpin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClotheSpin" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClotheSpin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClotheSpin" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClotheSpin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClotheSpin" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClotheSpin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClotheSpin" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="App" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -200,15 +233,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581149368220</updated>
-      <workItem from="1581149369556" duration="4384000" />
+      <workItem from="1581149369556" duration="9295000" />
     </task>
+    <task id="LOCAL-00001" summary="added client src">
+      <created>1581153939425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581153939425</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4384000" />
+    <option name="totallyTimeSpent" value="9295000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="0" width="812" height="965" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -234,11 +276,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added client src" />
+    <option name="LAST_COMMIT_MESSAGE" value="added client src" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.js">
+    <entry file="file://$PROJECT_DIR$/client/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        <state relative-caret-position="576">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -246,6 +299,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -259,27 +324,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/App/pages/Home.js">
+    <entry file="file://$PROJECT_DIR$/client/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="456">
+          <caret line="19" column="76" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/App/pages/List.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+        <state relative-caret-position="456">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/package.json">
+    <entry file="file://$PROJECT_DIR$/firebase.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="504">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -290,17 +352,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/.gitignore">
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        <state relative-caret-position="5">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/client/src/App/pages/Home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="456">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
