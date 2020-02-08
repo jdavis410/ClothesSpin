@@ -1,0 +1,28 @@
+[debug] [2020-02-08T13:54:12.774Z] ----------------------------------------------------------------------
+[debug] [2020-02-08T13:54:12.777Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Josh\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js serve
+[debug] [2020-02-08T13:54:12.777Z] CLI Version:   6.1.0
+[debug] [2020-02-08T13:54:12.777Z] Platform:      win32
+[debug] [2020-02-08T13:54:12.777Z] Node Version:  v9.7.1
+[debug] [2020-02-08T13:54:12.778Z] Time:          Sat Feb 08 2020 08:54:12 GMT-0500 (Eastern Standard Time)
+[debug] [2020-02-08T13:54:12.778Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2020-02-08T13:54:12.794Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-02-08T13:54:12.794Z] > authorizing via signed-in user
+[debug] [2020-02-08T13:54:12.795Z] [iam] checking project clothe-spin for permissions ["firebase.projects.get"]
+[debug] [2020-02-08T13:54:12.797Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/clothe-spin:testIamPermissions  
+
+[debug] [2020-02-08T13:54:13.103Z] <<< HTTP RESPONSE 200
+[debug] [2020-02-08T13:54:13.106Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/clothe-spin  
+ 
+[debug] [2020-02-08T13:54:13.272Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\Josh\Documents\Github_JD\ugahack5\ClotheSpin\client'...
+[info] 
+[info] +  database: started on http://localhost:9000
+[warn] !  database: WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by io.netty.util.internal.ReflectionUtil (file:/C:/Users/Josh/.cache/firebase/emulators/firebase-database-emulator-v3.5.0.jar) to field sun.nio.ch.SelectorImpl.selectedKeys
+WARNING: Please consider reporting this to the maintainers of io.netty.util.internal.ReflectionUtil
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+[warn] !  database: 
+
